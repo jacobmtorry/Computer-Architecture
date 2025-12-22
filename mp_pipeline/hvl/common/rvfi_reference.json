@@ -1,0 +1,21 @@
+{
+    "valid[0]"     : "dut.commit",
+    "order[0]"     : "dut.order",
+
+    "rs1_addr[0]"  : "dut.mem_wb_reg.rs1_s",
+    "rs2_addr[0]"  : "dut.mem_wb_reg.rs2_s",
+    "rs1_rdata[0]" : "dut.mem_wb_reg.rs1_v",
+    "rs2_rdata[0]" : "dut.mem_wb_reg.rs2_v",
+    
+    "inst[0]"      : "dut.mem_wb_reg.instr",
+    "rd_addr[0]"   : "dut.wb_rd_s",
+    "rd_wdata[0]"  : "dut.wb_rd_v",
+    "pc_rdata[0]"  : "dut.mem_wb_reg.pc",
+    "pc_wdata[0]"  : "dut.mem_wb_reg.pc_next",
+
+    "mem_addr[0]"  : "dut.mem_wb_reg.dmem_addr",
+    "mem_rmask[0]" : "dut.mem_wb_reg.dmem_rmask",
+    "mem_wmask[0]" : "dut.mem_wb_reg.dmem_wmask",
+    "mem_rdata[0]" : "dut.mem_wb_reg.mem_rdata",
+    "mem_wdata[0]" : "dut.mem_wb_reg.dmem_wdata"
+}
