@@ -1,0 +1,7 @@
+*
+!.gitignore
+!mp_ooo
+!mp_ooo/**
+**/.vscode
+**/.DS_Store
+**/.nfs*
