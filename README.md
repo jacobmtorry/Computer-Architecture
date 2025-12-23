@@ -67,6 +67,25 @@ This project represents the culmination of the course, combining control, memory
 
 ---
 
+## ⚠️ Academic Integrity Notice
+This repository is provided **for educational reference and portfolio purposes only**.
+
+If you are currently enrolled in **ECE 411 or a similar course**, you **may not copy, submit, or reuse** this code (in whole or in part) for any graded assignment, project, or assessment. Doing so would constitute a violation of your institution’s **academic integrity policy**.
+
+You are welcome to:
+- Read the code to understand architectural concepts
+- Use it as inspiration for your *own* independent implementations
+- Reference high-level design ideas (without copying)
+
+You are **not permitted** to:
+- Copy or lightly modify modules for submission
+- Reproduce logic, structures, or implementations verbatim
+- Use this repository to shortcut course assignments
+
+If you are unsure whether a particular use is acceptable, **ask your instructor**.
+
+---
+
 ## 📌 Notes
 - This repository is intended for **personal learning and portfolio purposes**.
 - Code is written to course specifications and may not reflect production-ready design practices.
